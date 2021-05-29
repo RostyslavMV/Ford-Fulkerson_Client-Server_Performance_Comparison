@@ -1,7 +1,8 @@
 # Ford-Fulkerson_Client-Server_Performance_Comparison
 
 Сервер: Java + Spring
-Клієнт JavaScript + React
+
+Клієнт: JavaScript + React
 
  <p>Використані технології для реалізації алгоритмів Форда-Фалкерсона та порівняння часу їх виконання:</p>
       <ul style="margin-top: 5px;">
